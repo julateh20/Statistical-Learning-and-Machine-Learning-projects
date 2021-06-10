@@ -1,4 +1,5 @@
-# Machine Learning Final Project  Codes and Report 
+# This Repository has four files from my machine learning project,Business Intelligence and statistical learning 
 
 Display of my machine Learning Project 
-# Git Assignment
+# The list of files are:
+.
